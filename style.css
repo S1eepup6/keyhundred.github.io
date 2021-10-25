@@ -1,0 +1,17 @@
+#small-para {
+    font-size: 10px;
+    font-family: 메이플스토리;
+    margin: 10;
+}
+
+.small-title {
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 메이플스토리;
+}
+
+.rounded {
+    background: silver;
+    height: 150px; width: 200px;
+    border-radius: 1rem;
+  }
